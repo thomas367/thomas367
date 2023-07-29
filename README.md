@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/Ubuntu-77216F?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=42b883">
-   <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=pythxon&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=white">
